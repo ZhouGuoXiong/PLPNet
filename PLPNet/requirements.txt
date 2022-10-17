@@ -1,0 +1,10 @@
+numpy~=1.17.0
+pillow~=8.4.0
+matplotlib~=3.1.2
+scipy~=1.7.3
+tqdm~=4.60.0
+opencv-python~=4.1.2.30
+pycocotools~=2.0.4
+torchvision~=0.11.2
+thop~=0.0.31-2005241907
+torchsummary~=1.5.1
