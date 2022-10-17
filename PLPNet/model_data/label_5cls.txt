@@ -1,0 +1,5 @@
+Tomato___Bacterial_spot
+Tomato___Early_blight
+Tomato___Late_blight
+Tomato___Leaf_Mold
+Tomato___Septoria_leaf_spot
