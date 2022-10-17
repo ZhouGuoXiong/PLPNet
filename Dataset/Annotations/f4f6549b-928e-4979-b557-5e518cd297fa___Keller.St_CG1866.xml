@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tomato___Septoria_leaf_spot_remain</folder>
+	<filename>f4f6549b-928e-4979-b557-5e518cd297fa___Keller.St_CG 1866.JPG</filename>
+	<path>C:\Users\tzw\Desktop\Tomato___Septoria_leaf_spot_remain\f4f6549b-928e-4979-b557-5e518cd297fa___Keller.St_CG 1866.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato___Septoria_leaf_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>59</ymin>
+			<xmax>144</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato___Septoria_leaf_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>104</ymin>
+			<xmax>203</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato___Septoria_leaf_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>111</ymin>
+			<xmax>65</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

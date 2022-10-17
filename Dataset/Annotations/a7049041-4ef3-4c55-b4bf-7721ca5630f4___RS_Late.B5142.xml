@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Late_blight</folder>
+	<filename>a7049041-4ef3-4c55-b4bf-7721ca5630f4___RS_Late.B 5142.JPG</filename>
+	<path>C:\Users\tzw\Desktop\TomatoDetection_Featured\JPEG\Tomato___Late_blight\a7049041-4ef3-4c55-b4bf-7721ca5630f4___RS_Late.B 5142.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato___Late_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>70</ymin>
+			<xmax>206</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

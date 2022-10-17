@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Leaf_Mold</folder>
+	<filename>062842d6-a49e-4aec-94fb-d6868db0e53d___Crnl_L.Mold 8805.JPG</filename>
+	<path>C:\Users\tzw\Desktop\Tomato___Leaf_Mold\062842d6-a49e-4aec-94fb-d6868db0e53d___Crnl_L.Mold 8805.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato___Leaf_Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>12</ymin>
+			<xmax>242</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

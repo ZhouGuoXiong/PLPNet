@@ -1,0 +1,26 @@
+<annotation>
+	<folder>图片</folder>
+	<filename>08a94695-4566-49aa-84df-91980c3534a2___RS_Late.B 5396.JPG</filename>
+	<path>C:\Users\XIONGJINCHAO\Desktop\tupian\图片\08a94695-4566-49aa-84df-91980c3534a2___RS_Late.B 5396.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato___Late_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>35</ymin>
+			<xmax>215</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

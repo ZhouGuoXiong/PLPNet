@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Early_blight_1</folder>
+	<filename>0e03c87e-b43f-4cfe-a837-71306c68f4c0___RS_Erly.B 7733.JPG</filename>
+	<path>C:\Users\tzw\Desktop\Tomato___Early_blight_1\0e03c87e-b43f-4cfe-a837-71306c68f4c0___RS_Erly.B 7733.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato___Early_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>122</ymin>
+			<xmax>83</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

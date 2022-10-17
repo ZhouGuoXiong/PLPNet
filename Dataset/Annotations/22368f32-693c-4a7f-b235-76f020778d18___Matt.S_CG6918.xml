@@ -1,0 +1,50 @@
+<annotation>
+	<folder>img_xml</folder>
+	<filename>22368f32-693c-4a7f-b235-76f020778d18___Matt.S_CG 6918.JPG</filename>
+	<path>C:\Users\tzw\Desktop\img_xml\22368f32-693c-4a7f-b235-76f020778d18___Matt.S_CG 6918.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato___Septoria_leaf_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>4</ymin>
+			<xmax>160</xmax>
+			<ymax>21</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato___Septoria_leaf_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>19</ymin>
+			<xmax>144</xmax>
+			<ymax>31</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato___Septoria_leaf_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>67</ymin>
+			<xmax>130</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

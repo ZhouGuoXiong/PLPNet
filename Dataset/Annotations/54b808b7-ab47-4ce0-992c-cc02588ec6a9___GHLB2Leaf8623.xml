@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tomato___Late_blight_remain</folder>
+	<filename>54b808b7-ab47-4ce0-992c-cc02588ec6a9___GHLB2 Leaf 8623.JPG</filename>
+	<path>C:\Users\tzw\Desktop\Tomato___Late_blight_remain\54b808b7-ab47-4ce0-992c-cc02588ec6a9___GHLB2 Leaf 8623.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato___Late_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>140</ymin>
+			<xmax>62</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato___Late_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>144</ymin>
+			<xmax>145</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
