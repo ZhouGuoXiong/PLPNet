@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tomato___Bacterial_spot_xml</folder>
+	<filename>fa416dda-9685-490c-ad69-e857e205b1fb___GCREC_Bact.Sp 6181.JPG</filename>
+	<path>C:\Users\tzw\Desktop\Tomato___Bacterial_spot_xml\fa416dda-9685-490c-ad69-e857e205b1fb___GCREC_Bact.Sp 6181.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato___Bacterial_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>7</ymin>
+			<xmax>169</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato___Bacterial_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>88</ymin>
+			<xmax>199</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>
